@@ -2,12 +2,13 @@
 
 # Installation
 
-```npm i countries-states-cities```
+```npm i faraz-countries-states-cities```
 
 # Import in your project file
 
 ```
-import useCountriesStateCities from 'countries-states-cities'
+import {useCountriesStateCities} from 'faraz-countries-states-cities'
+
 ```
 
 # Use

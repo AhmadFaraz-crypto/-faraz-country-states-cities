@@ -1,6 +1,6 @@
 {
-  "name": "countries-states-cities",
-  "version": "1.0.0",
+  "name": "faraz-countries-states-cities",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
@@ -49,7 +49,14 @@
   "description": "# Installation",
   "repository": {
     "type": "git",
-    "url": "git@github.com:AhmadFaraz-crypto/countries-states-cities.git"
+    "url": "git+ssh://git@github.com/AhmadFaraz-crypto/countries-states-cities.git"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmadFaraz-crypto/countries-states-cities/issues"
+  },
+  "homepage": "https://github.com/AhmadFaraz-crypto/countries-states-cities#readme",
+  "dependencies": {
+    "abab": "^2.0.6"
+  }
 }
