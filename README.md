@@ -10,7 +10,7 @@
 import useCountriesStateCities from 'countries-states-cities'
 ```
 
-# Declare inside the render menthod
+# Use
 
 
 ```
