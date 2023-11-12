@@ -49,7 +49,7 @@
   "description": "# Installation",
   "repository": {
     "type": "git",
-    "url": "git@github.com-ahmed:AhmadFaraz-crypto/countries-states-cities.git"
+    "url": "git@github.com:AhmadFaraz-crypto/countries-states-cities.git"
   },
   "license": "ISC"
 }
